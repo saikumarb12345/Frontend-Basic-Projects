@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  background-color: #fdf4e3;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.form-ele {
+  display: block;
+  border: 2px solid #2ce729;
+  border-radius: 10px;
+  background-color: #fffff5;
+  padding: 15px;
+  line-height: 2.4;
+  font-family: Verdana;
+  font-size: 17px;
+}
+input {
+  /* display: block; */
+  border: 1px solid #f7a7bf;
+  border-radius: 3px;
+}
+button {
+  background-color: chartreuse;
+  border: none;
+  border-radius: 3px;
+  padding: 8px;
+  font-weight: bolder;
+}

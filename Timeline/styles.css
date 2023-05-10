@@ -1,0 +1,31 @@
+body {
+  background-color: #36eee0;
+}
+h1 {
+  text-align: center;
+  color: #f62aa0;
+}
+h1:hover {
+  background-color: tomato;
+  color: black;
+  border: 2px solid black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul li {
+  font-size: 16px;
+  font-family: Verdana;
+  color: #171515;
+  line-height: 2.4;
+  text-transform: capitalize;
+}
+ul {
+  margin: 10px;
+  list-style-type: none;
+}
+ul:hover {
+  border: 3px solid green;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: cornflowerblue;
+  color: black;
+}

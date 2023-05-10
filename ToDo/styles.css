@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(to right, #f8ccdc, #a2dce7);
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 70vh;
+}
+h1 {
+  margin-top: -20px;
+  margin-bottom: 70px;
+}
+ul {
+  list-style-type: none;
+  line-height: 1.5;
+}

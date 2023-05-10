@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  font-size: 19px;
+  background-color: #57ddf3;
+}
+span {
+  font-size: 24px;
+}
+
+thead,
+th,
+td {
+  border: 2px solid white;
+  border-radius: 4px;
+  border-collapse: collapse;
+  margin: 0 auto;
+  color: #050a30;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 5px;
+  background-color: rgb(127, 240, 6);
+}
