@@ -13,6 +13,9 @@ If you are new to **frontend development**, I encourage you to check out these p
   - **User registration form**
   - **Price table**
   - **Counter**
+
+
+
 **Getting Started**
 - To get started with these projects, you will need to clone the repository to your local machine. You can do this by running the following command:
 - Code Snippet
